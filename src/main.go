@@ -1,8 +1,8 @@
 package main
 
 import (
+	"awesomeGvm/src/classpath"
 	"fmt"
-	"java/sth/classpath"
 	"strings"
 )
 
