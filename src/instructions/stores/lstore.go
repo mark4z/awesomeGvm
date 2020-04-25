@@ -1,7 +1,7 @@
 package stores
 
-import "jvmgo/ch05/instructions/base"
-import "jvmgo/ch05/rtda"
+import "awesomeGvm/src/instructions/base"
+import "awesomeGvm/src/rtda"
 
 // Store long into local variable
 type LSTORE struct{ base.Index8Instruction }

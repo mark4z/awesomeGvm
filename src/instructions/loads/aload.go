@@ -1,7 +1,7 @@
 package loads
 
-import "jvmgo/ch05/instructions/base"
-import "jvmgo/ch05/rtda"
+import "awesomeGvm/src/instructions/base"
+import "awesomeGvm/src/rtda"
 
 // Load reference from local variable
 type ALOAD struct{ base.Index8Instruction }

@@ -1,6 +1,6 @@
 package base
 
-import "jvmgo/ch05/rtda"
+import "awesomeGvm/src/rtda"
 
 func Branch(frame *rtda.Frame, offset int) {
 	pc := frame.Thread().PC()

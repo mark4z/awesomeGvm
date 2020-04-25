@@ -1,7 +1,7 @@
 package conversions
 
-import "jvmgo/ch05/instructions/base"
-import "jvmgo/ch05/rtda"
+import "awesomeGvm/src/instructions/base"
+import "awesomeGvm/src/rtda"
 
 // Convert long to double
 type L2D struct{ base.NoOperandsInstruction }
